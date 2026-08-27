@@ -1,0 +1,7 @@
+{
+  "name": "sepay-webhook-server",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Webhook riêng nhận thông báo từ SePay và tự động duyệt nạp tiền cho ShopQuyTuLa. Tách riêng khỏi project shop để cập nhật shop không làm gián đoạn webhook."
+}
